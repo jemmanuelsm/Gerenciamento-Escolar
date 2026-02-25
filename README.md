@@ -1,7 +1,7 @@
 # 🎓 Sistema de Gerenciamento Escolar
 
-Sistema de gerenciamento escolar com controle de alimentação e registro de entrada e saída de alunos.  
-Projeto desenvolvido como trabalho freelance, com foco em evolução profissional e boas práticas em PHP 8 e MariaDB.
+Plataforma de gerenciamento escolar com controle de alimentação e registro de entrada/saída de alunos.
+Desenvolvida em HTML5, CSS, PHP 8 e MariaDB como projeto focado no desenvolvimento profissional
 
 ---
 
